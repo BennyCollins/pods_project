@@ -1,4 +1,4 @@
-# Principles of Data Science coursework - Analysis of how measures of quality of life affects crime across London's boroughs.
+# Principles of Data Science Coursework - Analysis of how Measures of Quality of Life Affects Crime Across London's Boroughs.
  
 
 [Link to report](pods_project_report.pdf)
